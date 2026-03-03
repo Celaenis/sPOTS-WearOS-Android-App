@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040604930042",
+    "project_id": "potslicenta",
+    "storage_bucket": "potslicenta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040604930042:android:884608799191e82ccbce43",
+        "android_client_info": {
+          "package_name": "com.example.tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIIwgOJUG3mjjG6HCOCjBeSkT-pEW-XfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
